@@ -5,7 +5,8 @@
 
 🚀 Always open to collaborating on exciting projects—especially those involving modern web tech and cloud integration.
 
-📫 Let’s connect: <a href="linkedin.com/in/saurabh-gupta-0902642a4"> | 📧 saurabhg212003@gmail.com 
+📫 Let’s connect: <a href="http://linkedin.com/in/saurabh-gupta-0902642a4" target="_blank" rel="noopener noreferrer">http://linkedin.com/in/saurabh-gupta-0902642a4</a>
+ | 📧 saurabhg212003@gmail.com 
 Pronouns: He/Him
 
 🎯 Fun fact: I enjoy exploring new tech stacks and building projects to keep sharpening my skills!
