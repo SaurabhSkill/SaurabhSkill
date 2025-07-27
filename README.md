@@ -5,7 +5,7 @@
 
 🚀 Always open to collaborating on exciting projects—especially those involving modern web tech and cloud integration.
 
-📫 Let’s connect: linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com
+📫 Let’s connect: linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com [linkedin.com/in/saurabh-gupta-0902642a4|📧 saurabhg212003@gmail.com](linkedin.com/in/saurabh-gupta-0902642a4|📧 saurabhg212003@gmail.com)
 
 Pronouns: He/Him
 
