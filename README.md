@@ -1,7 +1,7 @@
 <h1 align="center">👋Hey there! I’m @SaurabhSkill</h1>
 <h3 align="center">🌐 Passionate about full-stack development and crafting high-performance, user-friendly web applications.</h3>
 
-- 📫 Let’s connect: [linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com](linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com)
+- 📫 Let’s connect: linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com
 
 - Pronouns: **He/Him**
 
