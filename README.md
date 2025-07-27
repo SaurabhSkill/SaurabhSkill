@@ -1,11 +1,14 @@
 <h1 align="center">👋Hey there! I’m @SaurabhSkill</h1>
 <h3 align="center">🌐 Passionate about full-stack development and crafting high-performance, user-friendly web applications.</h3>
 
-- 📫 Let’s connect: linkedin.com/in/saurabh-gupta-0902642a4 | 📧 saurabhg212003@gmail.com
+🛠 Tech Stack: MERN (MongoDB, Express, React, Node.js) | Learning Docker & AWS to level up my dev game.
+🚀 Always open to collaborating on exciting projects—especially those involving modern web tech and cloud integration.
 
-- Pronouns: **He/Him**
+📫 Let’s connect: 🔗 LinkedIn | 📧 saurabhg212003@gmail.com
 
-- 🎯 Fun fact: **I enjoy exploring new tech stacks and building projects to keep sharpening my skills!**
+Pronouns: He/Him
+
+🎯 Fun fact: I enjoy exploring new tech stacks and building projects to keep sharpening my skills!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
